@@ -13,7 +13,7 @@ Demonstrating the Detrimental Effects of Gerrymandering with Mathematical Progra
   contiguity, and compactness. This study develops two new
   mixed-integer mathematical programming formulations to
   quantitatively demonstrate the detrimental result of this practice
-  on the political balance \textit{even when} these constraints have
+  on the political balance even when these constraints have
   been operationalized to inhibit gerrymandering. Single-member and
   mixed single- and multi-member district electoral systems are used
   in the formulations. The d'Hondt method is applied for
