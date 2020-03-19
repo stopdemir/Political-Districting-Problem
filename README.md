@@ -8,7 +8,7 @@ Demonstrating the Detrimental Effects of Gerrymandering with Mathematical Progra
  <img src="Results/no.PNG" width="47%" height="47%" /> 
 </p>
 
-On the left image, one can see a result with **7 party A** and **3 party B** representatives can be elected in an electoral district where 10 representatives are elected. On the the other hand, the values can be changed from **7 to 3 for party A** and **3 to 7 for party B** *by just arranging the electoral district boundries* as shown in the right picture.
+In the image on the left side, one can see a result with **7 party A** and **3 party B** representatives can be elected in an electoral district in which 10 representatives are elected. On the the other hand, the values can be changed from **7 to 3 for party A** and **3 to 7 for party B** *by just arranging the electoral district boundaries* as shown in the image on the right side.
 
 Note that overall rates are almost equal to each other (51.41% and 48.59% for party A and party B respectively).
 
