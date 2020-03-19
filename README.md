@@ -43,13 +43,25 @@ Demonstrating the Detrimental Effects of Gerrymandering with Mathematical Progra
 
   ### Mathematical Model Implementation Java Cplex
   
+  You may want to change the parameters depending on the which territorial area you wants to work on.
+  
   #### ProjectPD
   
-  #### MultiMemberWithInitialization
+  Single-member district electoral system without initialization JAVA/CPLEX implementations 
   
   #### SingleMemberWithInitialization
   
+  Single-member district electoral system with initialization JAVA/CPLEX implementations 
+
   #### ProjectPaperMultiMemberWithout
+  
+  Multi-member district electoral system without initialization JAVA/CPLEX implementations 
+  
+  #### MultiMemberWithInitialization
+  
+  Multi-member district electoral system with initialization JAVA/CPLEX implementations 
+
+
   
   
   
