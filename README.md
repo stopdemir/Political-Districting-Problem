@@ -3,7 +3,7 @@ Demonstrating the Detrimental Effects of Gerrymandering with Mathematical Progra
 
 
 
-<p float="left">
+<p float="center">
   <img src="Results/yes.png" width="45%" height="45%" />
   <img src="Results/no.png" width="45%" height="45%" /> 
 </p>
