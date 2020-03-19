@@ -1,6 +1,8 @@
 # Political-Districting-Problem
 Demonstrating the Detrimental Effects of Gerrymandering with Mathematical Programming
 
+![Test Image 3](/yes.png)
+
 ## ABSTRACT
 
   Redrawing electoral district boundaries has been studied since the
