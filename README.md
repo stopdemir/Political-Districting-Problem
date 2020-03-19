@@ -14,6 +14,10 @@ Demonstrating the Detrimental Effects of Gerrymandering with Mathematical Progra
     </div>
 </div>
 
+.imgContainer{
+    float:left;
+}
+
 
 
 ## ABSTRACT
