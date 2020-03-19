@@ -2,7 +2,7 @@
 Demonstrating the Detrimental Effects of Gerrymandering with Mathematical Programming
 
 <img src="Results/yes.png" alt="Kitten"
-	title="" width="1000" height="1000" />
+	title="" width="50%" height="50%" />
 ![Test Image 3](Results/no.png)
 
 ## ABSTRACT
