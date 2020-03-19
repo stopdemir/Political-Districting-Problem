@@ -39,8 +39,21 @@ Demonstrating the Detrimental Effects of Gerrymandering with Mathematical Progra
   
   The Excel files that cover zeros and ones are represented the initial solutions. A unit that has one value means that the unit is assigned to the district that has that one value in its column. 
   
+## SOURCE CODES
 
- 
+  ### Mathematical Model Implementation Java Cplex
+  
+  #### ProjectPD
+  
+  #### MultiMemberWithInitialization
+  
+  #### SingleMemberWithInitialization
+  
+  #### ProjectPaperMultiMemberWithout
+  
+  
+  
+
 
 
 
