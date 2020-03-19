@@ -1,18 +1,11 @@
 # Political-Districting-Problem
 Demonstrating the Detrimental Effects of Gerrymandering with Mathematical Programming
 
-<div class="row">
-  <div class="column">
-    <img src="Results/yes.png" alt="Snow" title=""  width="40%" height="40%">
-  </div>
-  <div class="column">
-    <img src="Results/no.png" alt="Snow" title=""  width="40%" height="40%">
-  </div>
-</div>
+
 
 <p float="left">
-  <img src="Results/yes.png" width="40%" height="40%" />
-  <img src="Results/no.png" width="40%" height="40%" /> 
+  <img src="Results/yes.png" width="50%" height="50%" />
+  <img src="Results/no.png" width="50%" height="50%" /> 
 </p>
 ## ABSTRACT
 
