@@ -24,12 +24,20 @@ Demonstrating the Detrimental Effects of Gerrymandering with Mathematical Progra
   validate it, the study is the first of its kind to the best of our
   knowledge.
 
-## DATA SET
+## DATA SETs
 
-  ## Required Data Set for CPLEX File
+  ## Required Data Set for CPLEX Folder
   
-  Each folder in this folder is for four territorial areas with different number of units which are 17, 33, 68, and 85.
+  Each folder in this folder is for one of four territorial areas with different number of units which are 17, 33, 68, and 85.
   There are two excel files in each folder: Election and Referendum data sets. 
+  
+  ## Required Data Set for R Folder
+  
+  Required inital solutions have been achived by using the algorithm written in R programming language. Election and referendum results, adjacency matrices are used as input of the algorithm. The used data sets are same with the ones in Required Data Set for CPLEX Folder, however, form of the data sets may be different.
+  
+  ## Required Initial Solutions 
+  
+  The Excel files that cover zeros and ones are represented the initial solutions. A unit that has one value means that the unit is assigned to the district that has that one value in its column. 
   
 
  
