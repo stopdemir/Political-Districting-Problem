@@ -10,6 +10,10 @@ Demonstrating the Detrimental Effects of Gerrymandering with Mathematical Progra
   </div>
 </div>
 
+<p float="left">
+  <img src="Results/yes.png" width="40%" height="40%" />
+  <img src="Results/no.png" width="40%" height="40%" /> 
+</p>
 ## ABSTRACT
 
   Redrawing electoral district boundaries has been studied since the
