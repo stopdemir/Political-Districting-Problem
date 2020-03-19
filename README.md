@@ -3,20 +3,11 @@ Demonstrating the Detrimental Effects of Gerrymandering with Mathematical Progra
 
 
 
-<div class="image123">
-    <div class="imgContainer">
-        <img src="Results/yes.PNG" width="45%" height="45%" />
-        <p>This is image 2</p>
-    </div>
-    <div class="imgContainer">
-         <img src="Results/no.PNG" width="45%" height="45%" /> 
-        <p>This is image 3</p>
-    </div>
-</div>
+<p>
+ <img src="Results/yes.PNG" width="45%" height="45%" />
+ <img src="Results/no.PNG" width="45%" height="45%" /> 
+</p>
 
-.imgContainer{
-    float:left;
-}
 
 
 
