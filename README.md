@@ -23,3 +23,18 @@ Demonstrating the Detrimental Effects of Gerrymandering with Mathematical Progra
   referendum data. Considering our claim and the formulations to
   validate it, the study is the first of its kind to the best of our
   knowledge.
+
+## DATA SET
+
+  ## Required Data Set for CPLEX File
+  
+  Each folder in this folder is for four territorial areas with different number of units which are 17, 33, 68, and 85.
+  There are two excel files in each folder: Election and Referendum data sets. 
+  
+
+ 
+
+
+
+
+
