@@ -3,14 +3,18 @@ Demonstrating the Detrimental Effects of Gerrymandering with Mathematical Progra
 
 
 
-<p>
-<figure>
-  <img src="Results/yes.PNG" width="45%" height="45%" />
-  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
-  <img src="Results/no.PNG" width="45%" height="45%" /> 
-  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
-</figure>
- </p>
+<div class="image123">
+    <div class="imgContainer">
+        <img src="Results/yes.PNG" width="45%" height="45%" />
+        <p>This is image 2</p>
+    </div>
+    <div class="imgContainer">
+         <img src="Results/no.PNG" width="45%" height="45%" /> 
+        <p>This is image 3</p>
+    </div>
+</div>
+
+
 
 ## ABSTRACT
 
