@@ -1,7 +1,8 @@
 # Political-Districting-Problem
 Demonstrating the Detrimental Effects of Gerrymandering with Mathematical Programming
 
-![Test Image 3](Results/yes.png=600x600)
+![Test Image 3](Results/yes.png)
+![Test Image 3](Results/no.png)
 
 ## ABSTRACT
 
